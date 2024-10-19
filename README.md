@@ -1,5 +1,5 @@
 
-# Welcome to the Fitness App wiki
+# Welcome to the Fitness App 
 
 This application was made using the Flutter framework.
 The objective of this app is to help users get fit.
